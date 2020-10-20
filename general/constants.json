@@ -1,0 +1,15 @@
+{
+	"pageUrl": "https://static-links-page.signalnerve.workers.dev",
+	"avatar": "https://gurleen.dev/img/avatar.jpeg",
+	"name": "Gurleen Singh",
+	"backgroundColor": "bg-blue-900",
+	"links": [
+	    {"name": "Website", "url": "https://gurleen.dev"},
+	    {"name": "GitHub", "url": "https://github.com/gurleens2000"},
+	    {"name": "LinkedIn", "url": "https://www.linkedin.com/in/gsingh2000/"}
+	],
+	"socialLinks": [
+		{"icon": "https://simpleicons.org/icons/linkedin.svg", "url": "https://www.linkedin.com/in/gsingh2000/"},
+		{"icon": "https://simpleicons.org/icons/instagram.svg", "url": "https://www.instagram.com/gurleen_.s/"}
+	]
+}

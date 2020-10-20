@@ -1,0 +1,18 @@
+{
+    "name": "linktree",
+    "version": "1.0.0",
+    "description": "package for creating workers templates",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "prettier --write '**/*.{js,css,json,md}'"
+    },
+    "author": "Gurleen Singh <gs585@drexel.edu>",
+    "license": "MIT",
+    "devDependencies": {
+        "prettier": "^1.17.0"
+    },
+    "dependencies": {
+        "serverless-cloudflare-workers": "^1.2.0"
+    }
+}
